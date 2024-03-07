@@ -88,7 +88,7 @@
 
 int main(void)
 {
-	printf("할로");
+	printf("오늘 수업은 여기까지");
 	return 0;
 }
 
