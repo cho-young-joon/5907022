@@ -84,21 +84,29 @@
 //}
 
 
-#define MAX_ELEMENTS 100
-int scores[MAX_ELEMENTS];
+//#define MAX_ELEMENTS 100
+//int scores[MAX_ELEMENTS];
+//
+//int getMax_score(int n)
+//{
+//
+//	int largest;
+//	largest = scores[0];
+//
+//	for (int i = 1; i < n; i++) {
+//		if (scores[i] > largest) {
+//			largest = scores[i];
+//		}
+//	}
+//	return largest;
+//}
 
-int getMax_score(int n)
-{
-
-	int largest;
-	largest = scores[0];
-
-	for (int i = 1; i < n; i++) {
-		if (scores[i] > largest) {
-			largest = scores[i];
-		}
-	}
-	return largest;
-}
-
-
+//#include <stdio.h>
+//
+//int main(void)
+//{
+//	printf("test123")
+//	
+//	return 0;
+//}
+//
